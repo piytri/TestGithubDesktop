@@ -10,6 +10,7 @@ namespace GithubTest.Controllers
     {
         public ActionResult Index()
         {
+            //comment added
             return View();
         }
     }
