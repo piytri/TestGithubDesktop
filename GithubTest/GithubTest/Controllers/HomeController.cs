@@ -14,7 +14,7 @@ namespace GithubTest.Controllers
             //Commit No. 2 to Development branch
             //Commit No. 3 to Development branch
             return View();
-            //lets check a merge conflict
+	    //This should resolve the merge issue
         }
     }
 }
