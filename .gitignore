@@ -1,0 +1,10 @@
+*.suo
+*.dll
+GithubTest/GithubTest/bin/GithubTest.pdb
+*.xml
+*.cache
+GithubTest/GithubTest/obj/Debug/GithubTest.pdb
+*.txt
+*.suo
+*.suo
+*.cache
