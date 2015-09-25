@@ -14,6 +14,8 @@ namespace GithubTest.Controllers
             //Commit No. 2 to Development branch
             //Commit No. 3 to Development branch
             return View();
+            //Trying to simulate a merge error
+            //Lets see how it goes
         }
     }
 }
